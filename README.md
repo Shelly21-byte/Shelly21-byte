@@ -149,8 +149,6 @@ During my internship at **Kota Super Thermal Power Plant**, I worked on a data-d
 
 **AI-powered tool for generating notes from YouTube videos**
 
-🔗 **Repository:** [Shelly21-byte/yt-notes-bot](https://github.com/Shelly21-byte/yt-notes-bot)
-
 ### 📌 Overview
 
 A project designed to make learning from YouTube videos easier by converting video content into structured and useful notes.
