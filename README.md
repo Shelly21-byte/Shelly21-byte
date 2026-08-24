@@ -1,42 +1,196 @@
-# 💫 Hi 👋, I'm Shelly Sharma
-**MERN STACK DEVELOPER|| DATA ANALYSTS**
+<div align="center">
 
-Passionate Computer Science student at VIT Bhopal, focused on building scalable web applications with the MERN Stack and exploring Data Analytics. I enjoy turning ideas into impactful projects, solving real-world problems, and continuously learning modern technologies while contributing to open-source and developer communities.
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&pause=1000&color=A0A0A0&center=true&vCenter=true&width=700&height=120&lines=Shelly+Sharma;Aspiring+Data+Analyst" alt="Typing SVG" />
 
- 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shelly-sharma2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shelly200421@gmail.com) 
+</div>
 
+<br />
 
- ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<div align="center">
 
+### 📊 Data Analytics | Problem Solving
 
-## 💼 Professional Experience
+</div>
 
-### Project Intern @ Rajasthan Rajya Vidyut Utpadan Nigam Limited (RRVUNL)
-*June 2026 – Present*
+---
 
-- **Domain:** Industrial Automation | Thermal Power Plant | Full Stack Development
+## 👩‍💻 About Me
 
-- **Tech Stack:** 
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+Hi! I'm **Shelly Sharma**, a Computer Science Engineering student at **VIT Bhopal University** and an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and building solutions that solve real-world problems.
 
-- **Project:** Developing a **Thermal Power Plant Monitoring Dashboard** to visualize operational parameters such as boiler temperature, steam pressure, turbine status, power generation, and coal consumption.
+I enjoy working with data, creating interactive dashboards, finding patterns, and using technology to make information easier to understand and act upon.
 
-- **Learning:** Industrial power generation processes, dashboard development, REST APIs, database management, and data visualization.
+💡 **What I enjoy working on:**
+- 📊 Data analysis and visualization
+- 🧮 SQL and database analysis
+- 📈 Interactive dashboards with Power BI
+- 🐍 Data analysis using Python
+- 📑 Excel-based data cleaning and reporting
+- ☁️ Exploring Microsoft Fabric, AWS & Azure
+- 🌐 Building web-based projects
+- 🤖 Exploring machine learning and predictive analytics
 
-📌 **Interested in:** Full Stack Development, Industrial IoT, Data Visualization, and Software Engineering.
+Alongside academics, I actively contribute to student communities and have gained experience in **event management, technology, content, PR, and team leadership**.
 
- ## 🛠 Projects & Products
+I'm currently focused on becoming a **job-ready Data Analyst** by building practical projects and strengthening my skills in **SQL, Excel, Python, Power BI, and modern data platforms**.
 
-I build products focused on productivity, education, and scalable digital experiences.
+<br />
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shelly-sharma2004">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Shelly21-byte">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+<br />
+
+---
+
+# 🛠️ Tech Stack
+
+### 📊 Data Analytics & Visualization
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Paginated Reports](https://img.shields.io/badge/Paginated%20Reports-742774?style=for-the-badge&logo=powerbi&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</p>
+
+### ☁️ Cloud & Data Platforms
+
+<p align="center">
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</p>
+
+### 💻 Programming & Web Development
+
+<p align="center">
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</p>
+
+### 🎨 Design & Productivity
+
+<p align="center">
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+</p>
+
+---
+
+# 💼 Experience
+
+## 🏭 Project Intern @ Rajasthan Rajya Vidyut Utpadan Nigam Limited (RRVUNL)
+
+**Kota Super Thermal Power Plant, Kota, Rajasthan**
+
+📅 **June 2026 – July 20, 2026 · 45 Days**
+
+### 📊 Thermal Power Plant Efficiency & Performance Optimization
+
+During my internship at **Kota Super Thermal Power Plant**, I worked on a data-driven analysis project focused on understanding **thermal power plant efficiency and performance optimization**.
+
+### 🔍 Key Areas
+
+- 📑 Collected, cleaned, and organized operational data using **Microsoft Excel**
+- 🧮 Used **SQL** to query and analyze structured plant data
+- 🐍 Applied **Python** for data cleaning, exploratory data analysis, and identifying performance patterns
+- 📊 Created interactive **Power BI dashboards** for performance monitoring
+- 📈 Analyzed important operational and efficiency indicators
+- 🔎 Identified trends and patterns that could help in understanding plant performance
+- 💡 Used data-driven insights to support performance evaluation and optimization
+
+### 🛠️ Tools Used
+
+`Excel` `SQL` `Python` `Pandas` `NumPy` `Matplotlib` `Power BI`
+
+<br />
+
+---
+
+# 🚀 Projects
+
+## 🤖 YouTube Notes Bot
+
+**AI-powered tool for generating notes from YouTube videos**
+
+🔗 **Repository:** [Shelly21-byte/yt-notes-bot](https://github.com/Shelly21-byte/yt-notes-bot)
+
+### 📌 Overview
+
+A project designed to make learning from YouTube videos easier by converting video content into structured and useful notes.
+
+### 🛠️ Technologies
+
+`Python` `AI` `YouTube` `Streamlit`
+
+### ✨ Highlights
+
+- 🎥 Processes YouTube video content
+- 📝 Generates structured notes
+- ⚡ Helps reduce manual note-taking
+- 📚 Useful for students and self-learning
+
+---
+
+## 📊 Cricket Player Performance Analytics
+
+**Data Analytics Project**
+
+### 📌 Overview
+
+A data analytics project focused on analyzing cricket player performance using batting, bowling, venue, and recent-form statistics.
+
+### 🔍 Analysis Includes
+
+- 🏏 Batting performance
+- 🎯 Bowling performance
+- 📈 Strike rate and economy analysis
+- ⚖️ Player comparison
+- 🏟️ Venue-wise performance
+- 🔥 Last 10 matches form analysis
+- 🤖 Player performance prediction
+
+### 🛠️ Technologies
+
+`Excel` `SQL` `Python` `Pandas` `NumPy` `Power BI` `Microsoft Fabric`
+
+---
 
 <!-- Snake Game Repo View -->
 
@@ -53,5 +207,3 @@ I build products focused on productivity, education, and scalable digital experi
 
 ---
 [![](https://komarev.com/ghpvc/?username=Shelly21-byte&icon=0&color=10)](https://visitcount.itsvg.in)
-
-
