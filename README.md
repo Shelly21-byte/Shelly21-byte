@@ -113,35 +113,33 @@ I'm currently focused on becoming a **job-ready Data Analyst** by building pract
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## 🏭 Project Intern @ Rajasthan Rajya Vidyut Utpadan Nigam Limited (RRVUNL)
+### 🏭 Project Intern @ Rajasthan Rajya Vidyut Utpadan Nigam Limited (RRVUNL)
 
-**Kota Super Thermal Power Plant, Kota, Rajasthan**
+**Kota Super Thermal Power Station, Kota, Rajasthan**
 
 📅 **June 2026 – July 20, 2026 · 45 Days**
 
-### 📊 Thermal Power Plant Efficiency & Performance Optimization
+### 📊 Kota TPS – Generation, PLF, Outage & Coal Stock Analytics
 
-During my internship at **Kota Super Thermal Power Plant**, I worked on a data-driven analysis project focused on understanding **thermal power plant efficiency and performance optimization**.
+During my internship at **Kota Super Thermal Power Station**, I developed a data analytics project to analyze generation and operational performance of the **1240 MW, 7-unit station**.
 
 ### 🔍 Key Areas
 
-- 📑 Collected, cleaned, and organized operational data using **Microsoft Excel**
-- 🧮 Used **SQL** to query and analyze structured plant data
-- 🐍 Applied **Python** for data cleaning, exploratory data analysis, and identifying performance patterns
-- 📊 Created interactive **Power BI dashboards** for performance monitoring
-- 📈 Analyzed important operational and efficiency indicators
-- 🔎 Identified trends and patterns that could help in understanding plant performance
-- 💡 Used data-driven insights to support performance evaluation and optimization
+- 📑 Cleaned and validated operational data using **Excel**
+- 🗄️ Performed KPI and generation analysis using **SQL**
+- 🐍 Conducted EDA using **Python, Pandas, NumPy & Matplotlib**
+- ⚡ Analyzed **generation, PLF, variance and outages**
+- 🪨 Analyzed **coal-stock trends**
+- 📉 Evaluated **estimated generation loss**
+- 📊 Built a **4-page interactive Power BI dashboard**
 
 ### 🛠️ Tools Used
 
-`Excel` `SQL` `Python` `Pandas` `NumPy` `Matplotlib` `Power BI`
+`Excel` `SQL` `Python` `Pandas` `NumPy` `Matplotlib` `Power BI` `DAX`
 
-<br />
 
----
 
 # 🚀 Projects
 
